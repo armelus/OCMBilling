@@ -1,8 +1,25 @@
 {
 	"name": "armelus/OCMBilling",
 	"description": "API de Facturation des Abonnes ORANGE pour les VAS",
+	"keywords": [
+		"php", "curl", "api", "billing", "client", "http client", "json", "rest", "request", "restful", "service à valeur ajoutée", "orange", "ocm", "orange cameroon", "orange cameroun"
+	],
 	
+	"homepage": "https://github.com/armelus/OCMBilling",
+	"licence": "MIT",
+	"authors": [
+		{
+			"name": "Armel Jondo",
+			"email": "mc.armelus@gmail.com"
+		}
+	],
+
 	"require": {
-		"php": "^5.3.3 || ^7.0"
+		"php": ">=5.3.0",
+		"ext-curl": "*"
+	},
+	
+	"autoload": {
+		"psr-4" : {"Orange\\": "Orange/"}
 	}
 }
