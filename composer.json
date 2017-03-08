@@ -1,0 +1,8 @@
+{
+	"name": "armelus/OCMBilling",
+	"description": "API de Facturation des Abonnes ORANGE pour les VAS",
+	
+	"require": {
+		"php": "^5.3.3 || ^7.0"
+	}
+}
