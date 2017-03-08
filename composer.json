@@ -1,5 +1,5 @@
 {
-	"name": "armelus/OCMBilling",
+	"name": "armelus/ocm-billing",
 	"description": "API de Facturation des Abonnes ORANGE pour les VAS",
 	"keywords": [
 		"php", "curl", "api", "billing", "client", "http client", "json", "rest", "request", "restful", "service à valeur ajoutée", "orange", "ocm", "orange cameroon", "orange cameroun"
